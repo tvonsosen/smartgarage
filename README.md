@@ -11,5 +11,9 @@ Flutter Code:
 Arduino Code:
 -Arduino code found in the *Arduino* folder
 
+# Other Resources:
+[slideshow](https://docs.google.com/presentation/d/1kjiC78LZLEveTQ2WxIR6pWwn5U3ZbzU9X60DDaN-LNY/edit?usp=sharing)
+[youtube video](https://youtu.be/7JyKrZsEUw8)
 
-### Made by: The Brogrammers(A.K.A. Mason Horder and Trenton von Sosen)
+
+### Made by: The Brogrammers (A.K.A. Mason Horder and Trenton von Sosen)
