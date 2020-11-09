@@ -1,0 +1,74 @@
+{
+    "activate":{
+        "activate": false
+    },
+    "status":{
+        "status": 1
+    },
+    "sharing":{
+        "1":{
+            "user":"mason",
+            "shared":"che",
+            "permissionType":1,
+            "permissionDuration": 0
+        },
+        "2":{
+            "user":"mason",
+            "shared":"hadley",
+            "permissionType":2,
+            "permissionDuration": 0
+        },
+        "3":{
+            "user":"mason",
+            "shared":"trenton",
+            "permissionType":1,
+            "permissionDuration": 0
+        },
+        "4":{
+            "user":"mason",
+            "shared":"nicole",
+            "permissionType":4,
+            "permissionDuration": 0
+        },
+        "5":{
+            "user":"mason",
+            "shared":"skyler",
+            "permissionType":3,
+            "permissionDuration": 0
+        }
+    },
+    "users":{
+        "1":{
+            "name":"mason",
+            "email":"masonhorder@gmail.com"
+        },
+        "2":{
+            "name":"che",
+            "email":"che.e.horder@gmail.com"
+        },
+        "3":{
+            "name":"trenton",
+            "email":"tkvonsosen@gmail.com"
+        },
+        "4":{
+            "name":"hadley",
+            "email":"hadleyhorder@icloud.com"
+        }
+    },
+    "log":{
+        "1":{
+            "time": 1604863544,
+            "action": "open"
+        },
+        "2":{
+            "time": 1604863544,
+            "action": "open"
+        },
+        "3":{
+            "time": 1604863544,
+            "action": "open"
+        }
+    }
+
+
+}
